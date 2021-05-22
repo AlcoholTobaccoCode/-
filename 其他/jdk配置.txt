@@ -1,0 +1,8 @@
+java_home
+C:\Program Files (x86)\Java\jre1.8.0_191
+
+CLASSPATH
+.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar
+
+path
+.;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
